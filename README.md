@@ -27,4 +27,4 @@ its behavior after the accusations became public?
 Python, requests, matplotlib, Google Colab
 
 ## Course
-OSINT Investigation Project | Silesian University of Technology | 2025
+OSINT Investigation Project | Silesian University of Technology | 2026
